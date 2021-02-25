@@ -24,7 +24,7 @@
             <td>
                     <div>
                             <p align = "center">
-                                     <img  width = 20px src =  "https://raw.githubusercontent.com/antoniovandre/antoniovandre_eval_GUI/master/Bandeira%20da%20Espanha%20-%20320p.png"/>                      
+                                     <img  width = 50px src =  "https://raw.githubusercontent.com/antoniovandre/antoniovandre_eval_GUI/master/Bandeira%20da%20Espanha%20-%20320p.png"/>                      
                                     <h1 align = "center">Hola👋</h1>
                     <ul>
                             <li>:mortar_board:Desenvolvedor Full Stack</li>
