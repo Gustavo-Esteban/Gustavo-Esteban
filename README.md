@@ -4,7 +4,7 @@
                     <div>
                             <p align = "center">
                                      <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>                      
-                                    <h1>Olá👋</h1>
+                                    <h1 align = "center">Olá👋</h1>
                     <ul>
                             <li>:mortar_board:Desenvolvedor Full Stack</li>
                             <li>:mortar_board:Graduando Desenvolvimento de Sistemas</li>
@@ -15,7 +15,7 @@
                     <div>
                             <p align = "center">
                                     <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"/>
-                                    <h1>Hi👋</h1>
+                                    <h1 align = "center">Hi👋</h1>
                     <ul>                
                             <li>:mortar_board:Full Stack Developer</li>
                             <li>:mortar_board:Graduating System Development</li>
@@ -25,7 +25,7 @@
                     <div>
                             <p align = "center">
                                      <img src = "🇪🇦"/>                      
-                                    <h1>Hola👋</h1>
+                                    <h1 align = "center">Hola👋</h1>
                     <ul>
                             <li>:mortar_board:Desenvolvedor Full Stack</li>
                             <li>:mortar_board:Estudiando Desarrollo de Sistemas</li>
