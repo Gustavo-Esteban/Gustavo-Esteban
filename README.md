@@ -20,7 +20,7 @@
                             <li>:mortar_board:Full Stack Developer</li>
                             <li>:mortar_board:Graduating System Development</li>
                             <li>:space_invader:Programming Lover</li>
-            </td>                
+            </td>           </div>    
             <td>
                     <div>
                             <p align = "left">
@@ -90,3 +90,5 @@
     </td>        
   </tr>
 </table>       
+
+
