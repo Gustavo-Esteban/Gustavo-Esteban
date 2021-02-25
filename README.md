@@ -24,7 +24,7 @@
             <td>
                     <div>
                             <p align = "left">
-                                     <img src = "68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663166612d31663166382e706e673f7638"/>                      
+                                     <img src = "🇪🇸"/>                      
                                     <h1>Hola👋</h1>
                     <ul>
                             <li>:mortar_board:Desenvolvedor Full Stack</li>
@@ -90,5 +90,3 @@
     </td>        
   </tr>
 </table>       
-
-
