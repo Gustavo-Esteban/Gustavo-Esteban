@@ -27,7 +27,7 @@
                                      <img  width = 50px src =  "https://raw.githubusercontent.com/antoniovandre/antoniovandre_eval_GUI/master/Bandeira%20da%20Espanha%20-%20320p.png"/>                      
                                     <h1 align = "center">Hola👋</h1>
                     <ul>
-                            <li>:mortar_board:Desenvolvedor Full Stack</li>
+                            <li>:mortar_board:Desarrollador Full Stack</li>
                             <li>:mortar_board:Estudiando Desarrollo de Sistemas</li>
                             <li>:space_invader:Enamorado por programación</li>
                             </div>
