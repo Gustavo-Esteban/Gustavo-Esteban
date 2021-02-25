@@ -3,7 +3,7 @@
             <td>
                     <div>
                             <p align = "left">
-                                     <img src = "68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663166612d31663166382e706e673f7638"/>                      
+                                     <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>                      
                                     <h1>Olá👋</h1>
                     <ul>
                             <li>:mortar_board:Desenvolvedor Full Stack</li>
@@ -20,6 +20,7 @@
                             <li>:mortar_board:Full Stack Developer</li>
                             <li>:mortar_board:Graduating System Development</li>
                             <li>:space_invader:Programming Lover</li>
+            </td>                
             <td>
                     <div>
                             <p align = "left">
