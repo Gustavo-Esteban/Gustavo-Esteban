@@ -84,7 +84,7 @@
     </td>
       <td>
         <div>
-          <a href = "https://www.linkedin.com/in/gustavo-esteban-20b975190/">
+          <a href = "https://www.linkedin.com/in/gustavo-esteban-20b975190/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         </div>
     </td>        
