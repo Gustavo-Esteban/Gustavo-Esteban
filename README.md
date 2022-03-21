@@ -63,4 +63,4 @@
   </tr>
 </table>       
 
-![Snake animation](https://github.com/Gustavo-Esteban)
+ ![Snake animation](https://github.com/Gustavo-Esteban/Gustavo-Esteban/blob/output/github-contribution-grid-snake.svg)
