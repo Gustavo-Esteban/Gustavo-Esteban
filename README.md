@@ -50,8 +50,8 @@
     <tr>
     <td>
         <div>
-           <a href = "https://www.facebook.com/gustavo.esteban.982/">
-<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+           <a href = "mailto:gustavoesteban.ti@gmail.com" target="_blank">
+<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
         </div>
     </td>
       <td>
